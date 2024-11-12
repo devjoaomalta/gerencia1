@@ -1,7 +1,7 @@
 # Site Barbeiro Raimundo Silva
 ---
 
-### Descrição do projeto:
+### Descrição 
 O site consiste em uma landing page de venda de produtos que está sendo 
 desenvolvida para o especialista em barbearia e proprietário do Instituto Executive. 
 O objetivo do site é apresentar o profissional e os trabalhos que o mesmo desenvolve. 
